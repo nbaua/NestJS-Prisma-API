@@ -21,3 +21,7 @@ A [Nest JS](https://github.com/nestjs/nest) framework + TypeScript + Prisma proj
 
 #### production mode
 > npm run start:prod
+
+
+## Quick Tutorial
+[Quick Tutorial](./tutorial/tutorial.MD)
