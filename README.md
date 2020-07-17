@@ -4,7 +4,7 @@
 
 ## Description
 
-A [Nest JS](https://github.com/nestjs/nest) framework + TypeScript + Prisma + Graphql project.
+A [Nest JS](https://github.com/nestjs/nest) framework + TypeScript + Prisma project.
 
 
 ### To Install Packages
