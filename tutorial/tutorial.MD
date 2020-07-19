@@ -1,7 +1,7 @@
-# Nest JS + Prisma (GraphQL) API
+# Nest JS + Prisma API
 
 (
-Nest + Prisma + Graphql + MySQL
+Nest + Prisma + MySQL
 )
 
 ---
